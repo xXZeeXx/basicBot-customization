@@ -1,6 +1,6 @@
 (function () {
     //Link location of your fork so you don't have to modify so many things.
-    var fork = "Yemasthui";
+    var fork = "xXZeeXx";
 		
     //Define our function responsible for extending the bot.
     function extend() {
@@ -91,9 +91,9 @@
         ],
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
-        motdEnabled: false,
+        motdEnabled: true,
         motdInterval: 5,
-        motd: "Temporary Message of the Day",
+        motd: "Welcome to qcrafts`s Plug.dj enjoy your stay",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
